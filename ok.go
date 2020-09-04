@@ -1,4 +1,4 @@
-package test2
+package test3
 
 // Test .
 type Test struct{}
